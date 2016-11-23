@@ -1,8 +1,8 @@
 # Learn How to create a telegram Bot.(Python Version)
 This is all the projects and examples that I learn for creating telegrambot.
 
-# Pre·req·ui·site
-Python version 3.5 installed.
+# Prerequisite
+[Python version 3.5](https://www.python.org/downloads/) installed./n
 [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) installed.
 
 # Example
