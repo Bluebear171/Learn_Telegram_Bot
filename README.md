@@ -2,8 +2,8 @@
 This is all the projects and examples that I learn for creating telegrambot.
 
 # Prerequisite
-*[Python version 3.5](https://www.python.org/downloads/) installed.
-*[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) installed.
+* [Python version 3.5](https://www.python.org/downloads/) installed.
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) installed.
 
 # Example
 
